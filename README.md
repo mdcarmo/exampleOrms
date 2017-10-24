@@ -15,7 +15,7 @@ Após corrigir a string de conexão rode o projeto DatabaseCreator, o mesmo deve
 <p><center><img src="https://github.com/mdcarmo/exampleOrms/blob/master/Api/images/arq_hibrida5.PNG" /></center></p>
 
 Depois de criado o banco, basta rodar o projeto de API. Neste estou usando o Swagger, então adicione depois da url do serviço 
-"/swagger/ui" exemplo: <b>http://localhost:14115/swagger/ui/ </b>
+"/swagger/ui" exemplo: <b>http://localhost:porta/swagger/ui/</b>
 
 <p><center><img src="https://github.com/mdcarmo/exampleOrms/blob/master/Api/images/arq_hibrida7.PNG" /></center></p>
 
