@@ -1,6 +1,6 @@
 Repositório Hibrido
 
-<img src="https://github.com/mdcarmo/exampleOrms/blob/master/Api/images/arq_hibrida12.PNG" />
+<p><center><img src="https://github.com/mdcarmo/exampleOrms/blob/master/Api/images/arq_hibrida12.PNG" /></center></p>
 
 Neste exemplo estou utilizando O <b>Entity Framework</b> para efetuar as operações de insert, update e delete e o <b>Dapper</b> para realizar as operações de consulta.
 
@@ -12,12 +12,12 @@ Este exemplo está funcionando com o SQL SERVER na versão 2014.
 
 Após corrigir a string de conexão rode o projeto DatabaseCreator, o mesmo deverá criar as tabelas (2 tabelas Customer e User) e criar a procedure que busca todos os customers por sobrenome.
 
-<img src="https://github.com/mdcarmo/exampleOrms/blob/master/Api/images/arq_hibrida5.PNG" />
+<p><center><img src="https://github.com/mdcarmo/exampleOrms/blob/master/Api/images/arq_hibrida5.PNG" /></center></p>
 
 Depois de criado o banco, basta rodar o projeto de API. Neste estou usando o Swagger, então adicione depois da url do serviço 
-"/swagger/ui"
+"/swagger/ui" exemplo: <b>http://localhost:14115/swagger/ui/ </b>
 
-<img src="https://github.com/mdcarmo/exampleOrms/blob/master/Api/images/arq_hibrida7.PNG" />
+<p><center><img src="https://github.com/mdcarmo/exampleOrms/blob/master/Api/images/arq_hibrida7.PNG" /></center></p>
 
 Espero ajudar e quem puder opiniar ou melhorar o código sinta-se a vontade.
 
