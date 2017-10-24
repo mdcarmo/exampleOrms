@@ -129,6 +129,7 @@
   <ItemGroup>
     <EmbeddedResource Include="SwaggerExtensions\theme-override.css" />
     <Content Include="images\arq_hibrida1.PNG" />
+    <Content Include="images\arq_hibrida12.PNG" />
     <Content Include="images\arq_hibrida5.PNG" />
     <Content Include="images\arq_hibrida7.PNG" />
     <Content Include="Web.config" />
