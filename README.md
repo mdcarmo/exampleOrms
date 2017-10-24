@@ -1,5 +1,8 @@
 Repositório Hibrído
 
+https://github.com/mdcarmo/exampleOrms/blob/master/Api/images/arq_hibrida1.PNG
+
+
 Neste exemplo estou utilizando O Entity Framework para efetuar as operações de insert, update e delete e o Dapper para realizar
 as operações de consulta.
 
